@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e4316a93890387.5e70ade47b737.gif" alt="Cybernetic Banner"/>
+  <img src="https://cdn.dribbble.com/userupload/23231536/file/original-96bcc80d639eebc71eb8752d1491565e.gif" alt="Cybernetic Banner"/>
 </p>
 
 <div align="center">
@@ -8,7 +8,7 @@
 </div>
 
 <p align="center">
-  I build. I'm a Full-Stack Engineer operating at the intersection of **AI**, **Automation**, and **Cloud Infrastructure (AWS)**. I don't just solve problems; I architect the systems that make them obsolete. My passion is bringing ambitious ideas to life, translating complex challenges into elegant, end-to-end applications grounded in CS first principles.
+  I build. I'm a Full-Stack Engineer operating at the intersection of <b>AI</b>, <b>Automation</b>, and <b> Cloud Infrastructure (AWS)</b>. I don't just solve problems; I architect the systems that make them obsolete. My passion is bringing ambitious ideas to life, translating complex challenges into elegant, end-to-end applications grounded in CS first principles.
 </p>
 
 ---
