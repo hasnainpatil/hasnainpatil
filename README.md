@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.behance.net/gallery/93890387/Digital-number-scifi-Cyber-Space-Matrix-4K-Motion/modules/542500487" alt="Cybernetic Banner"/>
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e4316a93890387.5e70ade47b737.gif" alt="Cybernetic Banner"/>
 </p>
 
 <div align="center">
