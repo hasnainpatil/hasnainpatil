@@ -50,7 +50,7 @@
 ## 📊 My GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasnainpatil&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%"/>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&hide=stars,issues,prs,contribs&hide_rank=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hasnainpatil&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&hide=stars,issues,prs,contribs&hide_rank=true" alt="GitHub Stats" width="48%"/>
 </p>
