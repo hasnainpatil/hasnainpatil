@@ -40,8 +40,8 @@
 ## 🚀 Flagship Project: MemoryVault
 
 <p align="center">
-  <a href="httpss://github.com/hasnainpatil/MemoryVault">
-    <img src="httpss://github-readme-stats.vercel.app/api/pin/?username=hasnainpatil&repo=MemoryVault&theme=tokyonight&hide_border=true&title_color=61dafb&icon_color=61dafb" alt="MemoryVault Project Card">
+  <a href="https://github.com/hasnainpatil/MemoryVault">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hasnainpatil&repo=MemoryVault&theme=tokyonight&hide_border=true&title_color=61dafb&icon_color=61dafb" alt="MemoryVault Project Card">
   </a>
 </p>
 
