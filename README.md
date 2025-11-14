@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.dribbble.com/userupload/23231536/file/original-96bcc80d639eebc71eb8752d1491565e.gif" alt="Cybernetic Banner"/>
+  <img src="https://cdn.dribbble.com/userupload/23231536/file/original-96bcc80d639eebc71eb8752d1491565e.gif" alt="Cybernetic Banner" width="80%">
 </p>
 
 <div align="center">
